@@ -1,4 +1,4 @@
-### Hey! 👋 I'm Abhishek Bhardwaj AKA Abhistin!
+### Hey! I'm Abhishek Bhardwaj AKA Abhistin! 👋
 About me:
 - 🔭 I’m currently working on an AI Robot called AiPOC.
 - 🌱 I’m currently learning JavaScript,Machine Learning.
