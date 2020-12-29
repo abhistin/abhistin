@@ -10,4 +10,4 @@ About me:
 -->You Can Check Me On [YouTube: @Abhistin](https://www.youtube.com/c/abhistinbhardwaj?sub_confirmation=1)
 
 
-<img src = "https://github-readme-stats.vercel.app/api?username=abhistin&&show_icons=true&title_color=#808080&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src = "https://github-readme-stats.vercel.app/api?username=abhistin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
