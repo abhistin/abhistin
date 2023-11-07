@@ -47,8 +47,13 @@ A passionate iOS developer from India.
 </p>
 <p align="center"> 
   <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://img.shields.io/badge/Xcode-1882e8?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode"/> </a>
-  <!-- Add more badges for your tech stack here -->
+  <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://img.shields.io/badge/Swift-f15139?style=for-the-badge&logo=Swift&logoColor=white" alt="Swift"/> </a>
+  <a href="https://developer.apple.com/uikit/" target="_blank"> <img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=UIKit&logoColor=white" alt="UIKit"/> </a>
+  <a href="https://realm.io/" target="_blank"> <img src="https://img.shields.io/badge/Realm-9a50a5?style=for-the-badge&logo=Realm&logoColor=white" alt="Realm"/> </a>
+  <a href="https://developer.apple.com/coredata/" target="_blank"> <img src="https://img.shields.io/badge/Core%20Data-1589F0?style=for-the-badge&logo=Apple&logoColor=white" alt="Core Data"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 </p>
+
 
 <!-- Wakatime Stats (if desired) -->
 <!--START_SECTION:waka-->
