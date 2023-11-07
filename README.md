@@ -8,10 +8,12 @@ A passionate iOS developer from India.
 <!-- Your Social Media Links -->
 <p align="left"> 
   <a href="https://twitter.com/abhistin" target="blank">
-    <img src="https://img.shields.io/twitter/follow/abhistin?logo=twitter&style=for-the-badge" alt="twitter" />
+    <img src="https://img.shields.io/twitter/follow/abhistin?logo=twitter&style=for-the-badge" alt="abhistin" />
   </a>
+</p>
+<p align="right">
   <a href="https://www.linkedin.com/in/abhistin/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" height="25">
   </a>
 </p>
 
@@ -45,22 +47,14 @@ A passionate iOS developer from India.
 
 <!-- Tech Stack -->
 ## 🚀 My Tech Stack
-<p align="center">
+<p align='center'>
   <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif#gh-light-mode-only" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen>
 </p>
-<p align="center">
-  <div>
-    <img src="https://img.shields.io/badge/Swift-f15139?style=for-the-badge&logo=Swift&logoColor=white" alt="Swift">
-    <img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=UIKit&logoColor=white" alt="UIKit">
-    <img src="https://img.shields.io/badge/Realm-9a50a5?style=for-the-badge&logo=Realm&logoColor=white" alt="Realm">
-    <img src="https://img.shields.io/badge/Core%20Data-1589F0?style=for-the-badge&logo=Apple&logoColor=white" alt="Core Data">
-    <img src="https://img.shields.io/badge/MVC-FF69B4?style=for-the-badge" alt="MVC">
-    <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  </div>
+<p align="center"> 
+  <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://img.shields.io/badge/Xcode-1882e8?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode"/> </a>
+  <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://img.shields.io/badge/Swift-f15139?style=for-the-badge&logo=Swift&logoColor=white" alt="Swift"/> </a>
+  <a href="https://developer.apple.com/uikit/" target="_blank"> <img src="https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logo=UIKit&logoColor=white" alt="UIKit"/> </a>
+  <a href="https://realm.io/" target="_blank"> <img src="https://img.shields.io/badge/Realm-9a50a5?style=for-the-badge&logo=Realm&logoColor=white" alt="Realm"/> </a>
+  <a href="https://developer.apple.com/coredata/" target="_blank"> <img src="https://img.shields.io/badge/Core%20Data-1589F0?style=for-the-badge&logo=Apple&logoColor=white" alt="Core Data"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 </p>
-
-
-
-<!-- Wakatime Stats (if desired) -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
