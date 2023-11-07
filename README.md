@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/abhistin" target="blank"><img src="https://img.shields.io/twitter/follow/abhistin?logo=twitter&style=for-the-badge" alt="ganeshrajugalla" /></a> </p>
+<p align="left"> <a href="https://twitter.com/abhistin" target="blank"><img src="https://img.shields.io/twitter/follow/abhistin?logo=twitter&style=for-the-badge" alt="abhistin" /></a> </p>
 
 ### 👋 ![](https://komarev.com/ghpvc/?username=roynkem&color=268f77&label=Hey!!!+Visitor)
 
@@ -19,13 +19,13 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/abhistin)
 
-- 📝 I regularly write articles in [medium](https://medium.com/@abhistin)
+- 📝 I regularly write articles on [medium](https://medium.com/@abhistin)
 
 - 💬 Ask me about **iOS Development, Swift, UIKit and SwiftUI**
 
 - 📫 Reach me via **abhistinbhardwaj@gmail.com**
 
-- 📄 Wanna know more about my experiences, check out my [resume]()
+- 📄 Wanna know more about my experiences, check out my [resume](https://drive.google.com/file/d/1TlUUgEqeO43Apw1CGspuEqOSn-Nhhtv_/view?usp=sharing)
 
 <div align="center"> 
 <i>Random dev jokes for you my friend!</i></br></br>
