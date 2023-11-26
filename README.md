@@ -25,7 +25,7 @@
 
 - 📫 Reach me via **abhistinbhardwaj@gmail.com**
 
-- 📄 Wanna know more about my experiences, check out my [resume]([https://drive.google.com/file/d/1TlUUgEqeO43Apw1CGspuEqOSn-Nhhtv_/view?usp=sharing](https://drive.google.com/file/d/1zNlRQFIdAxxfKl3t7Wmw3Kd3VwmJ6ZNI/view?usp=sharing))
+- 📄 Wanna know more about my experiences, check out my [resume](https://drive.google.com/file/d/1zNlRQFIdAxxfKl3t7Wmw3Kd3VwmJ6ZNI/view?usp=sharing)
 
 <div align="center"> 
 <i>Random dev jokes for you my friend!</i></br></br>
